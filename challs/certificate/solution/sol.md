@@ -1,0 +1,1 @@
+Given that we can see a certificate file with the extension of CSR, we can go to a website like https://certlogik.com/decoder/, and put in the current certificate.Under Common Name (CN), the value is `NULL{read_my_certs}`

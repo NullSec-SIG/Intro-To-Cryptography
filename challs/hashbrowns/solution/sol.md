@@ -1,0 +1,1 @@
+Like in the activity and the clue given, try running office2john on the file and john the ripper with the rockyou.txt file, after about 5 minutes or so, it should crack the file, showing that the password is `crypto`.
